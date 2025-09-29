@@ -1,1 +1,1 @@
-Il progetto prevede l'uso di diversi Design Patterns per rendere il codice pulito, elegante e facilemente manutenibile
+Il progetto prevede l'uso di diversi Design Patterns per rendere il codice pulito, elegante e facilemente manutenibile. Nello specifico sono stati usati i seguenti Design Patterns: Observer, Visitor, Decorator e Static Factory Methods.
